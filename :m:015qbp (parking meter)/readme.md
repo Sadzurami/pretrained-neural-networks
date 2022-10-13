@@ -8,10 +8,6 @@
 
 **mAP%**: `99.7`
 
-**Chart**:
-
-![chart](./chart.png)
-
 **Example**:
 
 ![example](./example.png)
