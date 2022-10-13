@@ -8,14 +8,10 @@
 
 **mAP%**: `97.7`
 
+**Example**:
+
+<img src='./example.png' alt='drawing' width='450'>
+
 **Chart**:
 
-![chart](./chart.png)
-
-**Examples**:
-
-![1](./examples/1.png)
-![2](./examples/2.png)
-
-![3](./examples/3.png)
-![4](./examples/4.png)
+<img src='./chart.png' alt='drawing' width='450'>
