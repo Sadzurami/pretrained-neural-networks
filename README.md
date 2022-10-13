@@ -1,4 +1,4 @@
-# Neural network models
+# Pretrained neural networks
 
 All datasets are individual and obtained from public sources. Collected, labeled and trained personally by me.
 
