@@ -2,6 +2,8 @@
 
 **Detection objects**: `Bus`
 
+**Freebase ID**: `/m/01bjv`
+
 **Net**: `yolov4-tiny-3l`
 
 **Size**: `416`
