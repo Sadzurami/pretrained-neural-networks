@@ -10,8 +10,4 @@
 
 **Example**:
 
-<img src='./example.png' alt='drawing' width='450'>
-
-**Chart**:
-
-<img src='./chart.png' alt='drawing' width='450'>
+![example](./example.png)
